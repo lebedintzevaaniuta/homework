@@ -1,0 +1,19 @@
+.parent {
+  height: 400px;
+  background: #e7e3e3bd;
+  border-color: black;
+  border-style: solid;
+  border-radius: 10px 0px 0px 10px;
+  border-width: 1px;
+  padding-right: 250px;
+  overflow: scroll;
+}
+.child {
+  width: 200px;
+  background: rgba(188, 161, 72, 0.608);
+  display: inline-block;
+  margin: 10px;
+  border-radius: 10px;
+  box-shadow: inset 3px 1px 20px rgba(89, 76, 38, 0.534);
+  padding: 0 15px 25px 15px;
+}
